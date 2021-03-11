@@ -6,7 +6,7 @@ function main(){
     return{
         myDecimal, 
         myDecimalE
-    }
+    };
 }
 
 console.log(main());
