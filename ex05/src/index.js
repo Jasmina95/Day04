@@ -1,8 +1,6 @@
 function main(numOne, numTwo){
     //Only change code below this line 
-    var numOne = parseFloat(numOne);
-    var numTwo = parseFloat(numTwo);
-    var product = parseFloat((numOne * numTwo));
+    var product = numOne * numTwo;
     //Only change code above this line
     return product;
 }
